@@ -1,1 +1,2 @@
 ToolFacebook="0"
+ToolRegFacebook="1"
