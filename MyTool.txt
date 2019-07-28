@@ -1,2 +1,3 @@
 ToolFacebook="0"
 ToolRegFacebook="0"
+ToolSelenium="1"
